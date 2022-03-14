@@ -1,5 +1,5 @@
 # Emotional-Distress-Detector
-This project uses Deepface's database to help detect and assist distressed passengers on an airplane.
+This project uses Deepface's database to help detect and assist people in distress. This was used for American Airlines travel experience challenge.
 
 # Inspiration
 We've all been there; you're on a long flight because you've got to be somewhere and everything goes wrong. Someone's kid is kicking the back of your seat, your trying to sleep but the lady in front of you has her window wide open and your getting rayed down by the brightness of the sun, you really could use a beverage but the flight attendants are nowhere to be seen, and the list goes on. You could say something to those around you, but you don't want to be rude, it sure would be a lot easier if a flight attendant conveniently sorted out the issue for you. But how would they know what your dealing with? This is where our project comes in handy.
